@@ -1,2 +1,2 @@
 # psych-engine-download-code
-add bulid command when installtion is done
+it adds a bulid command when installtion is done
